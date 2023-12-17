@@ -3,7 +3,9 @@
 - First task in the exam
 - Multiple Choice
 - Only one answer will be correct
-- Between 5-10 points
+- Task will give a maximum of between 5-10 points
 - Example questions found in `spoiler_nr1.md`
-
-:bangbang: All assignments, materials, exam papers, mock exams, etc. will be uploaded after introducing it in the class each :bangbang:
+## Spoiler 2: Crossword puzzle
+- Last task in the exam
+- Crossword puzzle
+- Task will give a maximum of between 5-10 points
