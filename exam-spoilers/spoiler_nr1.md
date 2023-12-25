@@ -300,8 +300,6 @@
     - c. GENERATE VIEW  
     - d. DEFINE VIEW
 
-## Expert Level Questions
-
 51. 🎚️ In SQL, what is the purpose of the LAG() window function?
     - a. To calculate the cumulative sum of a column  
     - b. To retrieve the previous row's value within the result set  
